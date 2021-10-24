@@ -1,0 +1,20 @@
+.title_content {
+  text-align: center;
+}
+.title {
+  margin-top: 80px;
+}
+.description {
+  margin-top: 50px;
+  margin-bottom: 101px;
+  margin-left: 525px;
+  text-align: center;
+  width: 780px;
+  height: 223px;
+  font-size: 15px;
+}
+.title_name {
+  margin-bottom: 20px;
+  font-size: 24px;
+  line-height: 35px;
+}

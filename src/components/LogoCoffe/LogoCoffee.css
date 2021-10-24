@@ -1,0 +1,28 @@
+.block {
+  text-align: center;
+  overflow: hidden;
+}
+.img {
+  padding-top: 25px;
+}
+.block {
+  position: relative;
+}
+.block::before {
+  content: '';
+  width: 285px;
+  height: 3px;
+  background-color: black;
+  position: absolute;
+  top: 35px;
+  right: 630px;
+}
+.block::after {
+  content: '';
+  width: 265px;
+  height: 3px;
+  background-color: black;
+  position: absolute;
+  top: 35px;
+  left: 649px;
+}

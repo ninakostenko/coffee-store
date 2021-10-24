@@ -1,0 +1,9 @@
+.active {
+  color: #7f181b;
+}
+.error {
+  color: red;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 50px;
+}

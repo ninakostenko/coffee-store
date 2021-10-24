@@ -1,0 +1,48 @@
+.next {
+  background-image: url('/src/assets/images/bg-img.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  height: 440px;
+  color: #fff;
+}
+
+.our_coffee {
+  color: #fff;
+  font-size: 65px;
+  line-height: 58px;
+  text-align: center;
+}
+.content_two {
+  background: #ffffff;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+  padding: 35px;
+  margin-left: 40px;
+}
+.content_two > img {
+  overflow: hidden;
+  width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+.content_two > img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.content_cards_two {
+  display: grid;
+  grid-template-columns: repeat(3, 370px);
+  grid-column-gap: 25px;
+  column-gap: 75px;
+  grid-row-gap: 130px;
+  row-gap: 50px;
+  margin-bottom: 60px;
+}
+
+.deck {
+  font-size: 18px;
+  line-height: 30px;
+  text-align: right;
+  padding-right: 30px;
+}
