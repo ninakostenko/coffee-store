@@ -1,7 +1,7 @@
 import React from 'react'
 import img from '../../assets/images/aromico.jpg'
 import HomeHeader from '../Home/HomeHeader'
-import Footer from '../Footer'
+import Footer from '../footer/index'
 
 const Details = () => {
   return (

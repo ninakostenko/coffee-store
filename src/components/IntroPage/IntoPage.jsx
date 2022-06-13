@@ -6,7 +6,7 @@ import Content from './Content'
 import ContentCard from './ContentCard'
 import HeaderTitle from './HeaderTitle'
 import LinkCoffee from './LinkCoffe'
-import Footer from '../Footer'
+import Footer from '../footer/index'
 
 const IntoPage = () => {
   return (

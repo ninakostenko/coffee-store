@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import HomeHeader from './HomeHeader'
 import HomeContent from './HomeContent'
 import Search from './Search'
-import Footer from '../Footer'
+import Footer from '../footer/index'
 import Modal from './Modal'
 
 import { cards_2 } from '../../data/ProjectCards_2'

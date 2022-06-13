@@ -3,7 +3,7 @@ import './HomeContent.css'
 
 import img from '../../../assets/images/girl.jpg'
 
-import Logo from '../../Logo'
+import Logo from '../../logo/index'
 
 const HomeContent = () => {
   return (

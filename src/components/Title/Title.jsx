@@ -1,7 +1,7 @@
 import React from 'react'
 import './Title.css'
 
-import Logo from '../Logo'
+import Logo from '../logo/index'
 
 const Title = () => {
   return (
